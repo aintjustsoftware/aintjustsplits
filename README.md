@@ -26,5 +26,7 @@ AJS is an assistance tool for hardcore gamers who do speedruns, no-hit/no-death 
 * UI improvements + new themes
 * Hot-keys support
 * Integration with third-party services
+* Multi-platform support: macOS, Linux, Android
+* i18n
 
 ### Stay tuned!
