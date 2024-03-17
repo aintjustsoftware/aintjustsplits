@@ -21,7 +21,9 @@ AJS is an assistance tool for hardcore gamers who do speedruns, no-hit/no-death 
 
 ### Stay tuned!
 
-[![Support me](/assets/images/bmc-button.png)](https://www.buymeacoffee.com/nioh_souls){width=300px}
+<a href="https://www.buymeacoffee.com/nioh_souls" target="_blank">
+    <img alt="Support me" src="/assets/images/bmc-button.png" width="300" />
+</a>
 
 ## Limited warranty
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
